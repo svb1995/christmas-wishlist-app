@@ -1,0 +1,25 @@
+{
+  "title": "Weihnachten 2024",
+  "subtitle": "Wunschliste",
+  "addPerson": {
+    "placeholder": "Namen des Familienmitglieds eingeben",
+    "button": "Hinzufügen",
+    "description": "Erstelle Wunschlisten für deine Familie"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "export": "Wunschlisten exportieren",
+    "import": "Wunschlisten importieren"
+  },
+  "wishlist": {
+    "title": "s Wunschliste",
+    "addWish": "Füge einen Wunsch hinzu...",
+    "noWishes": "Noch keine Wünsche hinzugefügt",
+    "addButton": "Hinzufügen",
+    "shareViaWhatsApp": "Via WhatsApp teilen",
+    "noItemsToShare": "Füge zuerst Wünsche hinzu bevor du teilst!",
+    "shareError": "WhatsApp konnte nicht geöffnet werden. Stelle sicher, dass Pop-ups erlaubt sind."
+  },
+  "empty": "Füge Familienmitglieder hinzu, um mit den Wunschlisten zu beginnen",
+  "footer": "Mit Liebe für deine Familie gemacht"
+}

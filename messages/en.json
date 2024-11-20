@@ -1,0 +1,25 @@
+{
+  "title": "Christmas 2024",
+  "subtitle": "Wishlist",
+  "addPerson": {
+    "placeholder": "Enter family member's name",
+    "button": "Add",
+    "description": "Create wishlists for your entire family"
+  },
+  "settings": {
+    "title": "Settings",
+    "export": "Export Wishlists",
+    "import": "Import Wishlists"
+  },
+  "wishlist": {
+    "title": "'s Wishlist",
+    "addWish": "Add a wish...",
+    "noWishes": "No wishes added yet",
+    "addButton": "Add",
+    "shareViaWhatsApp": "Share via WhatsApp",
+    "noItemsToShare": "Add some items to the wishlist before sharing!",
+    "shareError": "Could not open WhatsApp. Please make sure pop-ups are allowed."
+  },
+  "empty": "Add family members to begin creating wishlists",
+  "footer": "Made with love for your family"
+}
